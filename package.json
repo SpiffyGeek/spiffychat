@@ -1,0 +1,9 @@
+{
+  "name": "spiffychat",
+  "version": "0.0.0",
+  "description": "spiffychat",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
